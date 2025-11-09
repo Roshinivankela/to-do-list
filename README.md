@@ -11,7 +11,7 @@ Built with HTML, CSS, and JavaScript, it lets you add, complete, filter, and man
 
 👉 Click here to view the live project
 
-(Replace # with your GitHub Pages or Netlify link)
+( https://roshinivankela.github.io/to-do-list/)
 
 ---
 
